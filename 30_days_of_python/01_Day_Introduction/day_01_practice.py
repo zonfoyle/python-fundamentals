@@ -20,6 +20,7 @@ print(type({'name': 'Zonique'})) # Dictionary
 #Variables
 name = "Zonique"
 goal = "Solutions Engineer/Architect"
-Year = 2025
+year = 2025
 
-print(name, goal, Year)
+print(name, goal, year)
+
