@@ -1,0 +1,7 @@
+After installing Flask:
+
+```bash
+pip freeze > requirements.txt
+
+venv/
+__pycache__/
