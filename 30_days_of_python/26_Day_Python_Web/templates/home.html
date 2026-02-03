@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1>Welcome</h1>
+<ul>
+  {% for tech in techs %}
+    <li>{{ tech }}</li>
+  {% endfor %}
+</ul>
+{% endblock %}
+
